@@ -1,10 +1,16 @@
 {
-  "name": "yPKU9JCN4zgrBAqrHVnbLqWvqQS9HUt7JSbvZrk28XGWyjmFXC",
+  "name": "ผลดาวโจนส์ vipล่าสุด เล่นยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "ผลดาวโจนส์ vipล่าสุด ในเรื่องของ ทั้งนี้ ผลดาวโจนส์ vipล่าสุด Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย นั้น เป็นหวยที่นิยมมากกันเลยทีเดียวล่ะครับ ",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": ["ผลดาวโจนส์ VIPล่าสุด","ผลดาวโจนส์","VIPล่าสุด","ผลดาวโจนส์ Huaylike","VIPล่าสุด Huaylike"],
+  "keywords": [
+    "ผลดาวโจนส์ VIPล่าสุด",
+    "ผลดาวโจนส์",
+    "VIPล่าสุด",
+    "ผลดาวโจนส์ Huaylike",
+    "VIPล่าสุด Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
