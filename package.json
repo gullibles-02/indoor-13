@@ -1,16 +1,10 @@
 {
-  "name": "หวยลาว h ทำไมถึงนิยม - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "PCspHgwZOoG9frDgYIKRK6VuaIIIPN2LBBDXopZhU8hOEPSJKE",
   "theme": "syntax",
   "version": "1.0.45",
   "description": "หวยลาว h ผลหวยหุ้นนิเคอิรอบเช้าผลหวยหุ้นนิเคอิรอบบ่ายมีสมาชิกท่านใดถูกรางวัลกันบ้างไหมครับ ทั้งนี้ หวยลาว h Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด หว",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": [
-    "หวยลาว H",
-    "หวยลาว",
-    "H",
-    "หวยลาว Huay Happy",
-    "H Huay Happy"
-  ],
+  "keywords": ["หวยลาว H","หวยลาว","H","หวยลาว Huay Happy","H Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
