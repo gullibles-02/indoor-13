@@ -1,10 +1,13 @@
 {
-  "name": "eMEGJa2GibjUMBllFJ6dThlQ42O1cdTGoZsVQOgHwHmJ6W3sRD",
+  "name": "ข่าวไก่ชน สมัครยังไง - เว็บใหม่ 11hilo 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.17",
   "description": "ข่าวไก่ชน สำหรับเว็บไซต์ ถึง ข่าวไก่ชน 11Hilo เว็บพนันออนไลน์ อันดับหนึ่ง เว็บตรง อันดับ 1 สล็อต ของเรานั้นถือได้ว่าเป็นเว็บไซต์ที่เล่นได้ง่ายๆได้เงินรางวั",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": ["ข่าวไก่ชน","ข่าวไก่ชน 11Hilo"],
+  "keywords": [
+    "ข่าวไก่ชน",
+    "ข่าวไก่ชน 11Hilo"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
