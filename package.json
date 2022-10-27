@@ -1,10 +1,16 @@
 {
-  "name": "Uy039c7JNCbp5dWs0L5P8WjvgdH6cBQkVToeJ9NGFecG3Dv0dy",
+  "name": "ฮานอยปกติ คือ ทำไมถึงนิยม - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.54",
   "description": "ฮานอยปกติ คือ 16 และ ฮานอยปกติ คือ Lotto หวยออนไลน์ อันดับหนึ่ง พฤษภาคม 2566 ถ่ายทอดสดหวย ถ่ายทอดสดหวยสลากกินแบ่งรัฐบาล 16 พฤษภาคม 2566",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": ["ฮานอยปกติ คือ","ฮานอยปกติ","คือ","ฮานอยปกติ Lotto","คือ Lotto"],
+  "keywords": [
+    "ฮานอยปกติ คือ",
+    "ฮานอยปกติ",
+    "คือ",
+    "ฮานอยปกติ Lotto",
+    "คือ Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
