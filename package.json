@@ -1,22 +1,10 @@
 {
-  "name": "ฮั่ ง เส็ง ประเทศ อะไร ได้อย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด-",
+  "name": "jImXHHugaUoNDMYpscHnITJY8Q7mNEF1LawnISepwas5OQRHjd",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "ฮั่ ง เส็ง ประเทศ อะไร ผลการออกรางวัล เท่ากับ ฮั่ ง เส็ง ประเทศ อะไร ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ป",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": [
-    "ฮั่ ง เส็ง ประเทศ อะไร",
-    "ฮั่",
-    "ง",
-    "เส็ง",
-    "ประเทศ",
-    "อะไร",
-    "ฮั่ Huay Happy",
-    "ง Huay Happy",
-    "เส็ง Huay Happy",
-    "ประเทศ Huay Happy",
-    "อะไร Huay Happy"
-  ],
+  "keywords": ["ฮั่ ง เส็ง ประเทศ อะไร","ฮั่","ง","เส็ง","ประเทศ","อะไร","ฮั่ Huay Happy","ง Huay Happy","เส็ง Huay Happy","ประเทศ Huay Happy","อะไร Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
