@@ -1,10 +1,16 @@
 {
-  "name": "XUERdmZbIVCpaizXSZxttbjaX3DsDB1JhFQDFe2eTCYZNQ6uM6",
+  "name": "ใบเซอร์ เว็บพนัน มีคำตอบ - เว็บใหม่ 1688sagame 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.51",
   "description": "ใบเซอร์ เว็บพนัน เว็บไซต์ จนถึง ใบเซอร์ เว็บพนัน ที่ 1688SAGame เว็บพนัน มีเกมพนันทุกชนิด ใบเซอร์ เว็บพนัน W999win ของเรานั้นเป็นเว็บไซต์ Hiso99 ที่ตรงปกเป",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": ["ใบเซอร์ เว็บพนัน","ใบเซอร์","เว็บพนัน","ใบเซอร์ 1688SAGame","เว็บพนัน 1688SAGame"],
+  "keywords": [
+    "ใบเซอร์ เว็บพนัน",
+    "ใบเซอร์",
+    "เว็บพนัน",
+    "ใบเซอร์ 1688SAGame",
+    "เว็บพนัน 1688SAGame"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
