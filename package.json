@@ -1,10 +1,13 @@
 {
-  "name": "LIMYdm3U4OYxzmFzgV5DdRjoi1aewy5k86UrzRms31TaS6NWdV",
+  "name": "ruaysup ดูยังไง - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "RUAYSUP หมายเหตุ หากว่า RUAYSUP Huay หวย หวยออนไลน์ มีหวยทุกชนิด หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตามกฎหมาย และได้รั",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": ["RUAYSUP","RUAYSUP Huay"],
+  "keywords": [
+    "RUAYSUP",
+    "RUAYSUP Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
