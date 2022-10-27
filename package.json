@@ -1,10 +1,13 @@
 {
-  "name": "7YB0MamTrvdujIUTVgBYE87hvZVfk0u2QXo5934x7Dlbjoq85j",
+  "name": "หวยปิงปองแม่นๆ เล่นที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "หวยปิงปองแม่นๆ หวยลาว เนื่องแต่ หวยปิงปองแม่นๆ Lotto หวยออนไลน์ อันดับหนึ่ง ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี้ และสำหรับท่",
   "repository": "https://github.com/gullibles-02/indoor-13",
-  "keywords": ["หวยปิงปองแม่นๆ","หวยปิงปองแม่นๆ Lotto"],
+  "keywords": [
+    "หวยปิงปองแม่นๆ",
+    "หวยปิงปองแม่นๆ Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
